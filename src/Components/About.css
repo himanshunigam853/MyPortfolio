@@ -1,10 +1,29 @@
-/* .c1{
-    width: 50%;
+.about-color{
+    /* background-color: #F5EFFF; */
+    background-color: #E5D9F2;
 }
 
-.c2{
-    width: 50%;
-} */
+.borde{
+    height: 350px;
+    width: 350px;
+    border-radius: 50%;
+    border: 8px solid #533eba;
+    background-color: red;
+    /* border: 8px solid #5034dd; */
+}
+
+.bord2{
+    height: 290px;
+    width: 290px;
+    border-radius: 50%;
+    border: 8px solid #5034dd;
+    margin: 0 auto;
+    margin-top: 20px;
+    background-color: #533eba;
+    /* background: url('images/portfo.jpeg'); */
+    overflow: hidden;   
+}
+
 
 .edu-list{
     /* margin:0  auto; */
@@ -12,6 +31,7 @@
     width: fit-content;
     /* margin-left: 30px; */
 }
+
 .edu-list2{
     /* margin:0  auto; */
     /* border: 2px solid red; */
@@ -24,7 +44,7 @@
     object-fit: cover;
 } */
 
-.img-bor{
+/* .img-bor{
     border-color: #5034dd;
     height: 450px;
     border-radius: 15px;
@@ -37,12 +57,8 @@
 
 img{
     height: 450px;
-}
+} */
 
-.about-color{
-    /* background-color: #F5EFFF; */
-    background-color: #E5D9F2;
-}
 
 main{
     width: 100%;
@@ -52,14 +68,3 @@ main{
     width: 50%;
 }
 
-.bord2{
-    height: 290px;
-    width: 290px;
-    border-radius: 50%;
-    border: 8px solid #5034dd;
-    margin: 0 auto;
-    margin-top: 20px;
-    background-color: red;
-    background: url('images/portfo.jpeg') no-repeat cover;
-    overflow: hidden;   
-}

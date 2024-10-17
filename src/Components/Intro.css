@@ -1,3 +1,20 @@
+/* left section */
+.left-bt{
+    background-color: #5034dd;
+}
+
+.intro-color{
+    /* background-color: #A594F9; */
+    background-color: #CDC1FF;
+}
+
+.myname{
+    color: #5034dd;
+}
+
+
+/* Right section */
+
 .borde{
     height: 350px;
     width: 350px;
@@ -5,6 +22,7 @@
     border: 8px solid #5034dd;
     /* border: 8px solid #5034dd; */
 }
+
 .borde2{
     height: 300px;
     width: 300px;
@@ -19,15 +37,17 @@
     
 }
 
-.left-bt{
-    background-color: #5034dd;
+.img-bor{
+    border-color: #5034dd;
+    height: 450px;
+    border-radius: 15px;
+    border: 12px solid #5034dd;
 }
 
-.intro-color{
-    /* background-color: #A594F9; */
-    background-color: #CDC1FF;
+.img-bor img{
+    object-fit: cover;
 }
 
-.myname{
-    color: #5034dd;
+img{
+    height: 450px;
 }

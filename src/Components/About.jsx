@@ -12,16 +12,11 @@ const About = () => {
           <div className="mt-10 grid grid-cols-1 gap-x-6 gap-y-8 sm:grid-cols-6 flex justify-around">
                   {/* Left section */}
             <div className="sm:col-span-3 m-auto">
-              {/* <div className='mt-7 ms-12 '>
-                  <div className='border-8 w-72 m-auto overflow-hidden img-bor'>
-                    <img src='images/img.jpeg' alt='' />
-                  </div>
-              </div> */}
               <div className='borde'>
                  <div className='bord2'>
-                   
+                    <img src="images/pp1.png" alt="" />
                  </div>
-                 </div>
+              </div>
             </div>
 
                   {/* Right section */}
