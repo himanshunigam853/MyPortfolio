@@ -17,7 +17,7 @@
     /* border: 2px solid red; */
     width: fit-content;
     margin-left: 70px;
-    background-color:red;
+    /* background-color:red; */
 }
 
 /* .portfolio-img{
@@ -60,7 +60,6 @@ main{
     margin: 0 auto;
     margin-top: 20px;
     background-color: red;
-    background-image: url(images/portfo.jpeg) no-repeat cover;
-    overflow: hidden;
-    
+    background: url('images/portfo.jpeg') no-repeat cover;
+    overflow: hidden;   
 }
