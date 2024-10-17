@@ -58,9 +58,7 @@ main{
     border: 8px solid #5034dd;
     margin: 0 auto;
     margin-top: 20px;
-    background-image: url('images/portfo.jpeg');
-    background-size: cover;
-    background-repeat: no-repeat;
+    background-image: url('images/portfo.jpeg') no-repeat cover;
     overflow: hidden;
     
 }
