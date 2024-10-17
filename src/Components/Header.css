@@ -1,0 +1,19 @@
+.logo{
+    /* color: #ECDFCC; */
+    color: black;
+}
+
+.head-color{
+    background-color: #A594F9;
+    /* background-color: #CDC1FF; */
+}
+
+.list-colr{
+    color: black;
+}
+
+.hidden a:hover{
+    text-decoration: underline;
+    line-height: 20px;
+    text-shadow: 10px;
+}

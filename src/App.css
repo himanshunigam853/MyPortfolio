@@ -1,0 +1,10 @@
+body{
+    scroll-behavior: smooth; 
+    position: relative;
+    /* position: sticky; */
+}
+
+:root{
+    --p-c:red;
+}
+

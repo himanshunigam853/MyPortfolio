@@ -1,0 +1,29 @@
+.contact-color{
+    /* background-color: #E5D9F2; */
+    background-color: #E5D9F2;
+    /* background-color: #CDC1FF; */
+}
+
+.bd{
+    border: 3px solid red;
+}
+
+
+.bd2{
+    border: 3px solid green;
+}
+
+
+.bd3{
+    border: 3px solid black;
+}
+
+
+.bd4{
+    border: 3px solid blue;
+}
+
+input{
+    padding-left:10px
+}
+

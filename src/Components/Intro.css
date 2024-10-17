@@ -1,0 +1,33 @@
+.borde{
+    height: 350px;
+    width: 350px;
+    border-radius: 50%;
+    border: 8px solid #5034dd;
+    /* border: 8px solid #5034dd; */
+}
+.borde2{
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+    border: 8px solid #5034dd;
+    margin: 0 auto;
+    margin-top: 15px;
+    background-image: url('images/img.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    
+}
+
+.left-bt{
+    background-color: #5034dd;
+}
+
+.intro-color{
+    /* background-color: #A594F9; */
+    background-color: #CDC1FF;
+}
+
+.myname{
+    color: #5034dd;
+}

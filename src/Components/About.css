@@ -1,0 +1,66 @@
+/* .c1{
+    width: 50%;
+}
+
+.c2{
+    width: 50%;
+} */
+
+.edu-list{
+    /* margin:0  auto; */
+    /* border: 2px solid red; */
+    width: fit-content;
+    /* margin-left: 30px; */
+}
+.edu-list2{
+    /* margin:0  auto; */
+    /* border: 2px solid red; */
+    width: fit-content;
+    margin-left: 70px;
+}
+
+/* .portfolio-img{
+    object-fit: cover;
+} */
+
+.img-bor{
+    border-color: #5034dd;
+    height: 450px;
+    border-radius: 15px;
+    border: 12px solid #5034dd;
+}
+
+.img-bor img{
+    object-fit: cover;
+}
+
+img{
+    height: 450px;
+}
+
+.about-color{
+    /* background-color: #F5EFFF; */
+    background-color: #E5D9F2;
+}
+
+main{
+    width: 100%;
+}
+
+.main-sub{
+    width: 50%;
+}
+
+.bord2{
+    height: 290px;
+    width: 290px;
+    border-radius: 50%;
+    border: 8px solid #5034dd;
+    margin: 0 auto;
+    margin-top: 20px;
+    background-image: url('images/portfo.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    overflow: hidden;
+    
+}

@@ -1,0 +1,100 @@
+@media only screen and (min-width: 0) and (max-width: 600px) {
+    
+    /* intro right section start */
+
+    /* .borde{
+        height: 320px;
+        width: 320px;
+        border-radius: 50%;
+        border: 8px solid #5034dd;
+    } */
+
+    .bord2{
+        height: 260px;
+        width: 260px;
+        /* border-radius: 50%; */
+        border: 8px solid #5034dd;
+        margin: 0 auto;
+        /* margin-top: 5px; */
+        /* background-image: url('images/portfo.jpeg');
+        background-size: cover;
+        background-repeat: no-repeat;
+        overflow: hidden; */
+        
+    }
+
+        /* intro right section end */
+/* 
+    .left-heading ul{
+        width: 100%;
+    } */
+
+
+    /* about left section */
+    .img-bor{
+       margin: 5px;
+      
+    }
+
+    /* about right section */
+    .right-heading{
+        text-align: center;
+    }
+
+    .right-heading ul{
+        text-align: center;
+
+    }
+
+    .right-heading p{
+        padding: 15px;
+    }
+
+
+     /* contact section */
+     .contact-color{
+        width: 100%;
+    }
+
+    .foot{
+        font-size: medium;
+    }
+
+
+    /* About section */
+
+    .edu-list li{
+        /* border: 2px solid red; */
+        margin-left: -60px;
+        margin-top: 8px;
+    }
+
+    .left-heading2{
+        margin-left: -60px;
+        margin-top: 8px;
+        font-size: 20px;
+    }
+
+    .edu-list2 li{
+        margin-left: -60px;
+        margin-top: 8px;
+    }
+
+    .intro{
+        padding-right: 20px;
+       
+    }
+
+    .intro-leftdata{
+        margin-left:20px;
+    }
+
+    .icons{
+        margin-left: -30px;
+        
+    }
+
+    .in-p{
+        text-align: justify;
+    }
+}

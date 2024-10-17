@@ -1,0 +1,58 @@
+  
+
+    
+  .row3{
+      width: 90%;
+      /* border: 2px solid black; */
+      display:flex ;
+      flex-wrap: wrap;
+      justify-content: space-around;
+      align-items: center;
+      margin: 0 auto;
+      gap: 25px;
+      padding: 23px;
+  
+  }
+    
+  /* height: 350px; */
+  /* .pro{
+      width: 300px;
+      border: 2px solid black none;
+      box-shadow: 2px 8px 8px rgba(0, 0, 0, 0.1);
+      background-color: whitesmoke;
+      padding: 10px;
+      border-radius: 15px;
+      overflow: hidden;
+  } */
+    
+    .port1-img{
+      height: 200px;
+      width: 100%;
+      object-fit: center;
+      border-radius: 10px;
+    }
+    
+    .content-body{
+      width: 100%;
+      /* height: 150px; */
+    }
+  
+    .content-left{
+      padding: 10px;
+    }
+    
+    .content-left p{
+      font-size: 18px;
+      line-height: 15px;
+    }
+    
+    .content-left a{
+      text-decoration: none;
+      color: rgb(255, 166, 0);
+    }
+    
+    
+    .project-color{
+      background-color: #CDC1FF;
+      /* background-color: #E5D9F2; */
+    }
