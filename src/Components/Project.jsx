@@ -88,7 +88,7 @@ const Project = () => {
             <div className='grid-cols-3 border-2 border-solid rounded-s-3xl h-80 w-80 overflow-hidden'>
                 <div  className='pro m-5'>
                     <div>
-                    <a href='https://himanshunigam.netlify.app/'><img src='images/portfolio.png' alt='' className='port1-img' /><hr></hr></a>
+                    <a href='https://himanshunigam.netlify.app/'><img src='images/updateimg.png' alt='' className='port1-img' /><hr></hr></a>
                       
                     </div>
                     <div className='content-body'>

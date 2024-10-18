@@ -93,7 +93,7 @@ const About = () => {
                   {/* Right section */}
             <div className="sm:col-span-3">
                 <div className='ps-5'>
-                      <h1 className='text-4xl font-semibold  right-heading'>Skiils</h1>
+                      <h1 className='text-4xl font-semibold  right-heading'>Skills</h1>
                       <ul className='mt-5'>
                           <li className='flex items-center m-2'><FaLongArrowAltRight/><span className='ms-2'><span className='font-semibold text-base'>Web Development:</span> HTML, CSS, JavaScript, WordPress</span></li>
                           <li className='flex items-center m-2'><FaLongArrowAltRight/><span className='ms-2'><span className='font-semibold text-base'>Programming Languages:</span> PHP, React</span></li>
