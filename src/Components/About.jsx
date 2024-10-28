@@ -95,11 +95,12 @@ const About = () => {
                 <div className='ps-5'>
                       <h1 className='text-4xl font-semibold  right-heading'>Skills</h1>
                       <ul className='mt-5'>
-                          <li className='flex items-center m-2'><FaLongArrowAltRight/><span className='ms-2'><span className='font-semibold text-base'>Web Development:</span> HTML, CSS, JavaScript, WordPress</span></li>
-                          <li className='flex items-center m-2'><FaLongArrowAltRight/><span className='ms-2'><span className='font-semibold text-base'>Programming Languages:</span> PHP, React</span></li>
-                          <li className='flex items-center m-2'><FaLongArrowAltRight/><span className='ms-2'><span className='font-semibold text-base'> Tools:</span> Visual Studio Code</span></li>
-                          <li className='flex items-center m-2'><FaLongArrowAltRight/><span className='ms-2'><span className='font-semibold text-base'> Frameworks: </span> Bootstrap, Tailwind</span></li>
+                          <li className='flex items-center m-2'><FaLongArrowAltRight/><span className='ms-2'><span className='font-semibold text-base'>Web Development:</span> HTML, CSS, WordPress(Elementor)</span></li>
+                          <li className='flex items-center m-2'><FaLongArrowAltRight/><span className='ms-2'><span className='font-semibold text-base'>Programming Languages:</span>JavaScript, PHP</span></li>
+                          {/* <li className='flex items-center m-2'><FaLongArrowAltRight/><span className='ms-2'><span className='font-semibold text-base'> Tools:</span> Visual Studio Code</span></li> */}
+                          <li className='flex items-center m-2'><FaLongArrowAltRight/><span className='ms-2'><span className='font-semibold text-base'> Frameworks & Libraies: </span> Bootstrap, Tailwind, React</span></li>
                           <li className='flex items-center m-2'><FaLongArrowAltRight/><span className='ms-2'><span className='font-semibold text-base'> Database:  </span> MySQL (basic knowledge)</span></li>
+                          <li className='flex items-center m-2'><FaLongArrowAltRight/><span className='ms-2'><span className='font-semibold text-base'> Soft Skills:  </span>Communication, Problem Solving, Time Management  </span></li>
                         
                       </ul> 
                   </div>
